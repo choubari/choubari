@@ -51,6 +51,10 @@ Here are some ideas to get you started:
   * I'm currenty working on my Personal Website/Blog.
 
 
-- :zap: **Github Stats**
+
+- :zap: **Github Stats :**
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true" />
 
+- :trophy: **My GitHub trophies :** 
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
