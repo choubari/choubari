@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   * I'm sharing tips on dev & design on my [Instagram Account](http://instagram.com/choubari_).
   * I often write some [Tweets](https://twitter.com/choubari_) and trying to use Twitter daily. 
   * I'm trying to build the habit of blogging on [Medium](https://medium.com/@choubari). 
-  * I'm currenty working on My Website.
+  * I'm currenty working on my Personal Website/Blog.
 
 
 - :zap: **Github Stats**
