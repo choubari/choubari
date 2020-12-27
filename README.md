@@ -43,6 +43,9 @@ Here are some ideas to get you started:
  <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="80">
   </a>
+ <a href="https://reactjs.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="80">
+  </a>
  <a href="https://dart.dev/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="80">
   </a>
@@ -56,9 +59,6 @@ Here are some ideas to get you started:
 
 - 🌱 **I’m looking to learn :**
 <p float="left">
- <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="80">
-  </a>
  <a href="https://nodejs.org/en/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="80">
   </a>
@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   * I often write some [Tweets](https://twitter.com/choubari_) and trying to use Twitter daily. 
   * I'm trying to build the habit of blogging on [Medium](https://medium.com/@choubari). 
   * I'm currenty working on my Personal Website/Blog.
+  * Support my Open Source Web and Mobile Apps by [Buying Me A Coffee](https://www.buymeacoffee.com/choubari).
 
 
 
