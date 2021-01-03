@@ -26,44 +26,44 @@ Here are some ideas to get you started:
 - 🔭 **I’m currently working with :**
 <p float="left">
  <a href="https://www.java.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="50">
  </a>
  <a href="https://www.android.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="50">
  </a>
  <a href="https://www.python.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="50">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="50">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/8pnd.png" width="50">
   </a>
  <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="50">
   </a>
  <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="50">
   </a>
  <a href="https://dart.dev/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="50">
   </a>
  <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="50">
   </a>
  <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="50">
   </a>
 </p>
 
 - 🌱 **I’m looking to learn :**
 <p float="left">
  <a href="https://nodejs.org/en/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="50">
   </a>
  <a href="https://kotlinlang.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="80">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="50">
   </a>
 </p>
 
