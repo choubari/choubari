@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   * I often write some [Tweets](https://twitter.com/choubari_) and trying to use Twitter daily. 
   * I'm trying to build the habit of blogging on [Medium](https://medium.com/@choubari). 
   * I'm currenty working on my Personal Website/Blog.
-  * Support my Open Source Web and Mobile Apps by [Buying Me A Coffee](https://www.buymeacoffee.com/choubari).
+  * Support my Open Source Web and Mobile Apps by [Buying Me A Book](https://www.buymeacoffee.com/choubari).
 
 
 
