@@ -46,8 +46,14 @@ Here are some ideas to get you started:
  <a href="https://reactjs.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
   </a>
+ <a href="https://nodejs.org/en/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+  </a>
  <a href="https://dart.dev/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
+  </a>
+ <a href="https://kotlinlang.org/">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
   </a>
  <a href="https://git-scm.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
@@ -55,16 +61,16 @@ Here are some ideas to get you started:
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
-<a href="https://nodejs.org/en/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+<a href="https://www.adobe.com/products/photoshop.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
   </a>
- <a href="https://kotlinlang.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
+ <a href="https://www.adobe.com/products/illustrator.html">
+<img alt="choubari" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
   </a>
 </p>
 
 ## 
-### :point_right: Find me [elsewhere on the internet](https://linktr.ee/choubari).
+### 💬 Find me [elsewhere on the internet](https://linktr.ee/choubari).
 ## 
 
 <img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
