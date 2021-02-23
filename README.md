@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
 <samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Web & Mobile Engineering Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco 🇲🇦)</i> and chair of 
-<a href="https://ieee-ensias.tech/">IEEE ENSIAS Student Branch</a>. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp> You can **[find me elsewhere](https://linktr.ee/choubari) on the Internet.**
+<a href="https://ieee-ensias.tech/">IEEE ENSIAS Student Branch</a>. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp> 
 
 ## 
 
@@ -55,9 +55,7 @@ Here are some ideas to get you started:
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
-</p>
-<p float="left">
- <a href="https://nodejs.org/en/">
+<a href="https://nodejs.org/en/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
   </a>
  <a href="https://kotlinlang.org/">
@@ -65,8 +63,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="200">
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true" />
+<img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true"/>
+
+
+### :point_right: Find me [elsewhere on the internet](https://linktr.ee/choubari).
 
 <!--
 - :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
