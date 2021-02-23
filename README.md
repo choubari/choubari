@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 
 
-- **Languages and Technologies:**
+### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
@@ -63,11 +63,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## 
+### :point_right: Find me [elsewhere on the internet](https://linktr.ee/choubari).
+## 
+
 <img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
 <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true"/>
 
-
-### :point_right: Find me [elsewhere on the internet](https://linktr.ee/choubari).
 
 <!--
 - :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
