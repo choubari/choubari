@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## 
 
-<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="140">
+<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
 <samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Web & Mobile Engineering Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco 🇲🇦)</i> and chair of 
-<a href="https://ieee-ensias.tech/">IEEE ENSIAS Student Branch</a>. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp>
+<a href="https://ieee-ensias.tech/">IEEE ENSIAS Student Branch</a>. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp> You can **[find me elsewhere](https://linktr.ee/choubari) on the Internet.**
 
 ## 
 
-- 🔭 **I’m currently working with :**
+- **Languages and Technologies:**
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
 </p>
-
-- 🌱 **I’m looking to learn :**
 <p float="left">
  <a href="https://nodejs.org/en/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
@@ -67,18 +65,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img alt="choubari" align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="200">
-
-- 💬 **Let's connect :**
-  * [Linkedin](https://www.linkedin.com/in/kawtar-choubari-2226b0150/).
-  * [Instagram](http://instagram.com/choubari_).
-  * [Twitter](https://twitter.com/choubari_).  
-  * [Buy me a coffee](https://www.buymeacoffee.com/choubari).
-
-
-
-- :zap: **Github Stats :**
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true" />
+<img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="200">
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true" />
 
 <!--
 - :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
