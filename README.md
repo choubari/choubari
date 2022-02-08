@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 
 
 <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Software Engineer Grad. by July 2022 (open to new positions). I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="youtube.com/c/kawtarChoubari">YouTube</a>. I also create weekly coding content on <a href="https://instagram.com/choubari_/">on Instagram</a> Got a project? Want to discuss? Send me a message there!</p></samp> 
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Software Engineer Grad. by July 2022 (open to new positions). I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://youtube.com/c/kawtarChoubari">YouTube</a>. I also create weekly coding content on <a href="https://instagram.com/choubari_/">Instagram</a> Got a project? Want to discuss? Send me a message there!</p></samp> 
 
 ## 
 
