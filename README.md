@@ -5,6 +5,8 @@
 
 ## Conferences & Workshops:
 
+Next.js 13, what's going on? [@Biztech Morocco 🇲🇦](https://www.youtube.com/live/s4sdXK4ApKM), 120 minutes
+
 Best Practices for Better Accessibility [@Devoxx Morocco 2022 🇲🇦](https://devoxx.ma/talk/?id=10482), 50 minutes
 
 How to make a "perfect" git commit [@Devoxx Morocco 2022 🇲🇦](https://devoxx.ma/talk/?id=10481), 25 minutes
