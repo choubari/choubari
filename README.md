@@ -51,3 +51,7 @@ Getting started with Git & Github, Workshop for IEEE ENSIAS Student Branch 2021 
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
 </p>
+
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choubari&show_icons=true"/>
+
