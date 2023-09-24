@@ -1,7 +1,7 @@
 ## Hello World ! 👋
 
 <a href="https://choubari.com"><img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="120"></a>
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Software Engineer Grad. 2022 with interests in FrontEnd & Mobile Developement. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://youtube.com/c/kawtarChoubari">YouTube</a> and <a href="https://instagram.com/choubari_/">Instagram</a>. Got a project? Wanna a collab? please contact me <a href="https://choubari.com/contact/">here</a>!</p></samp> 
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Junior Software Engineer and Content Creator, with interests in Front-End & Mobile Developement. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://youtube.com/c/kawtarChoubari">YouTube</a> and <a href="https://instagram.com/choubari_/">Instagram</a>. Let's make some cool stuff together... <a href="https://choubari.com/contact/">Contact me</a>!</p></samp> 
 
 ### [➡️ choubari.com 🎁](https://choubari.com)
 
