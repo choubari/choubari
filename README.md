@@ -1,7 +1,7 @@
 ## Hello World ! 👋
 
 <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Software Engineer Grad. 2022 with interests in FrontEnd & Mobile Developement. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://youtube.com/c/kawtarChoubari">YouTube</a> and <a href="https://instagram.com/choubari_/">Instagram</a>. Got a project? Wanna a collab? please contact me through <a href="https://www.linkedin.com/in/choubari/">LinkedIn</a>!</p></samp> 
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Software Engineer Grad. 2022 with interests in FrontEnd & Mobile Developement. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://youtube.com/c/kawtarChoubari">YouTube</a> and <a href="https://instagram.com/choubari_/">Instagram</a>. Got a project? Wanna a collab? please contact me <a href="https://choubari.com/contact/">here</a>!</p></samp> 
 
 ## Conferences & Workshops:
 
@@ -38,12 +38,12 @@ Getting started with Git & Github, Workshop for IEEE ENSIAS Student Branch 2021 
  <a href="https://reactjs.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
   </a>
- <a href="https://www.java.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
- <a href="https://www.android.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
- </a>
+  <a href="https://nextjs.org/">
+<img alt="choubari" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40">
+  </a>
+  <a href="https://tailwindcss.com/">
+<img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="50">
+  </a>
  <a href="https://git-scm.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
   </a>
