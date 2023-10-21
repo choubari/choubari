@@ -36,15 +36,15 @@
 
 ## Conferences & Workshops:
 
+React Server Components 101 [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?id=22005), 25 minutes
+
+Modern Web Development with Next.js [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?id=25435), 120 minutes
+
 Next.js 13, what's going on? [@Biztech Morocco 🇲🇦](https://www.youtube.com/live/s4sdXK4ApKM), 120 minutes
 
 Best Practices for Better Accessibility [@Devoxx Morocco 2022 🇲🇦](https://devoxx.ma/talk/?id=10482), 50 minutes
 
 How to make a "perfect" git commit [@Devoxx Morocco 2022 🇲🇦](https://devoxx.ma/talk/?id=10481), 25 minutes
-
-Write your academic reports with LaTeX, Workshop for [IEEE ENSIAS Student Branch 2021 🇲🇦](https://twitter.com/EnsiasSb/status/1349696348606652421?t=asi7OMRJUtanYaXag41ncA&s=08), 120 minutes 
-
-Getting started with Git & Github, Workshop for IEEE ENSIAS Student Branch 2021 🇲🇦, 120 minutes 
 
 [Show more...](https://choubari.com/talks)
 
