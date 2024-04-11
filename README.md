@@ -36,7 +36,9 @@
 
 ## Conferences & Workshops:
 
-React Server Components 101 [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?id=22005), 25 minutes
+Partial Pre-rendering: Hype or Innovation [@React.Paris 🇫🇷](https://react.paris/#schedule), 25 minutes
+
+React Server Components 101 [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?id=22005)  [@Devoxx France 🇫🇷](https://www.devoxx.fr/schedule/talk/?id=47585), 25 minutes
 
 Modern Web Development with Next.js [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?id=25435), 120 minutes
 
