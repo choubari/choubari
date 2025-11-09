@@ -1,12 +1,9 @@
 ## Hello World ! 👋
 
-I'm <b>Kawtar CHOUBARI</b>, a Software Engineer and Content Creator. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://instagram.com/choubari_/" target="_blank">Instagram</a> _(and casually on <a href="https://youtube.com/c/KawtarChoubari" target="_blank">YouTube</a>)_ . 
+I'm <b>Kawtar CHOUBARI</b>, a Software Engineer and Public Speaker. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://instagram.com/choubari_/" target="_blank">Instagram</a>. 
 
-Let's make some cool stuff together... <a href="https://choubari.com/contact/" target="_blank">Contact me</a>!</p></samp> 
+Let's discuss your project 👉 <a href="https://choubari.com/contact/" target="_blank">Contact me</a>!</p></samp> 
 
-### [➡️ choubari.com 🎁](https://choubari.com)
-
-<br/>
 
 ## Conferences & Workshops:
 
@@ -18,16 +15,15 @@ React Server Components 101 [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?i
 
 Modern Web Development with Next.js [@Devoxx Morocco 🇲🇦](https://devoxx.ma/talk/?id=25435), 120 minutes
 
+How I capture testimonials before they disappear [@Strapi Conf 🇫🇷](https://conf.strapi.io/), 15 minutes
+
+What you should know before vibe coding with React [@Frontend Nation 🌐](https://frontendnation.com/), 20 minutes
+
 [Show more...](https://choubari.com/talks)
 
 <br/>
  
 
-## Thank you!
-
-<a href="https://www.buymeacoffee.com/choubari" aria-label="Buy me a coffee" target="_blank">
-<img align="left" width={150} alt="Buy me a coffee link" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=choubari&button_colour=12c5ca&font_colour=212733&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"/>
-</a> 
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choubari&show_icons=true"/>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choubari&show_icons=true"/>
 
 
