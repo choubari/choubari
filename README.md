@@ -23,7 +23,3 @@ What you should know before vibe coding with React [@Frontend Nation 🌐](https
 
 <br/>
  
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choubari&show_icons=true"/>
-
-
